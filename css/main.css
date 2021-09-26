@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&display=swap');
+
+body{
+    font-family: 'Inria Serif', serif;
+}
+
+.mindful-mauve{
+    color: #B962A6;
+}
+
+.mindful-mustard{
+    color: #DBA328;
+}
+.mindful-gradient{
+    color: white;
+    background: rgb(185,98,166);
+    background: linear-gradient(90deg, rgba(185,98,166,1) 0%, rgba(219,163,40,1) 100%);
+}
